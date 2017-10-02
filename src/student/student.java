@@ -543,7 +543,7 @@ public class student extends javax.swing.JFrame {
         try {
             rs.deleteRow();
         } catch (SQLException err) {
-            JOptionPane.showMessageDialog(rootP, err);
+            
         }
         
     }//GEN-LAST:event_btnDeleteRecordActionPerformed
